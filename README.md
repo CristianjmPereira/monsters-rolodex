@@ -1,7 +1,7 @@
 # Monster Rolodex App
 
-This is a simple list of entities that can be user to represent anything.
-This is the first project made on "Complete React Developer in 2022" course from Zero To Mastery Academy.
+This is a simple list of entities that can be used to represent anything. \
+This is the first project made on the "Complete React Developer in 2022" course from Zero To Mastery Academy.
 
 ## Available Scripts
 
